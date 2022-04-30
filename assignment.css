@@ -12,20 +12,7 @@ body{
   margin-top: auto;
   margin-bottom: auto;
 }
-/* .row{
-  column-count: 2;
-  column-rule-style: solid;
-  column-rule-color: black;
-}
-.user1{
-  column-width: 50%;
-  margin-left: 5%;
 
-}
-.user2{
-  column-width: 50%;
-  margin: 5%;
-} */
 input{
   height: 2em;
   width: 30em;
