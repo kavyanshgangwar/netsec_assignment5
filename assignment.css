@@ -1,0 +1,51 @@
+body{
+  background-color: #C7F9CC;
+  color: #22577A;
+  font-family: monospace;
+  font-size: 1.2em;
+
+}
+
+.container{
+  margin-left: 5em;
+  margin-right: 5em;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+/* .row{
+  column-count: 2;
+  column-rule-style: solid;
+  column-rule-color: black;
+}
+.user1{
+  column-width: 50%;
+  margin-left: 5%;
+
+}
+.user2{
+  column-width: 50%;
+  margin: 5%;
+} */
+input{
+  height: 2em;
+  width: 30em;
+  border-radius: 0.3em;
+  color: inherit;
+  font-weight: bold;
+}
+.center{
+  text-align: center;
+}
+
+button{
+  width: 5em;
+  height: 1.4em;
+  font-size: 1em;
+}
+table{
+  width: 100%;
+}
+td{
+  padding: 5%;
+  width: 50%;
+}
